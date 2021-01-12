@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our privacy policy is aimed at making our online personal data practices more transparent out of respect to the privacy of people visiting and using our websites. Specifically, it describes what information we collect, how we collect it, and who has access to it. Most of this information is common sense, however we believe firmly in giving people the right to know how their information is being used.
+Our privacy policy is aimed at making our online personal data practices more transparent out of respect to the privacy of our participants and people visiting and using our websites. Specifically, it describes what information we collect, how we collect it, and who has access to it. Most of this information is common sense, however we believe firmly in giving people the right to know how their information is being used.
 
 Our policy applies to websites TreeHacks owns and controls, including treehacks.com and its related subdomains. It does not apply to the personal data practices of our sponsors’ and partner organizations’ sites. Finally, the policy is subject to change at any time at the sole discretion of TreeHacks without notice.
 
@@ -20,6 +20,8 @@ We also collect optional demographic information about our hackers. This informa
 
 TreeHacks uses Google Analytics to gather data about our sites’ users. This information is anonymized and used only to observe general patterns so that we can enhance our practices and user experience. For more information about Google Analytics, check out the [Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html).
 
+Third-party virtual platforms used for the event may collect their own analytics. We encourage participants to read the privacy policies of all platforms used.
+
 ### 3\. Security Logging Information
 
 TreeHacks logs limited personal information such as user account information, the user’s IP address, and the web browser user agent whenever certain actions such as logging in and resetting a password are performed. This information is only used to locate and prevent unauthorized access and is never shared with anybody outside of the TreeHacks organization.
@@ -36,15 +38,15 @@ The privacy and safety of our applicants and participants are always our highest
 
 The primary motivators for why sponsoring companies attend and support TreeHacks is to interact with our great participants. In return for their support, we provide certain sponsors with access to the following information about our hackers:
 
-*   Name
-*   Email
-*   Resume
-*   GitHub Username
-*   LinkedIn Profile
-*   School
-*   Major
-*   Graduating month and year
-*   Any awards you may have won at the current TreeHacks
+-   Name
+-   Email
+-   Resume
+-   GitHub Username
+-   LinkedIn Profile
+-   School
+-   Major
+-   Graduating month and year
+-   Any awards you may have won at the current TreeHacks
 
 You have the opportunity to decline providing any information to sponsors when you RSVP. Specifically, we never directly share your phone number or any demographic information.
 
@@ -59,4 +61,4 @@ Finally, we may share personal information with law enforcement and a court of l
 _Our privacy policy is based on the [PennApps Privacy Policy](http://pages.pennapps.com/policies/privacy/), which is licensed under the [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license._
 
 This guide was last updated on:
-Oct 17, 2019
+Jan 11, 2021
