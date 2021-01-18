@@ -26,7 +26,11 @@ Third-party virtual platforms used for the event may collect their own analytics
 
 TreeHacks logs limited personal information such as user account information, the user’s IP address, and the web browser user agent whenever certain actions such as logging in and resetting a password are performed. This information is only used to locate and prevent unauthorized access and is never shared with anybody outside of the TreeHacks organization.
 
-### 4\. Reimbursement Information
+### 4\. Event video/audio recordings
+
+TreeHacks may record events, workshops, and webinars. These recordings may be shared with the general public to promote TreeHacks.
+
+### 5\. Reimbursement Information
 
 If you qualify for travel reimbursements, you may be required to submit proof of your purchase as well as completed and signed tax forms and copies of identifying documents. This is required under Stanford University’s disbursement policy and is never shared with anyone outside of the TreeHacks organization and the Stanford University business offices.
 
@@ -61,4 +65,4 @@ Finally, we may share personal information with law enforcement and a court of l
 _Our privacy policy is based on the [PennApps Privacy Policy](http://pages.pennapps.com/policies/privacy/), which is licensed under the [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license._
 
 This guide was last updated on:
-Jan 11, 2021
+Jan 17, 2021
