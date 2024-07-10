@@ -12,7 +12,7 @@ In particular, attendees should not use sexualised or discriminatory images, act
 
 Photography is encouraged, but subjects must be given a reasonable chance to opt out from being photographed. If they object to the taking of their photograph, comply with their request. It is inappropriate to take photographs in contexts where people have a reasonable expectation of privacy (in bathrooms or designated resting spaces).
 
-If a participant engages in harassing, inappropriate, or disruptive behavior, TreeHacks may take any action it deems appropriate, including but not limited to, warning the offender, contacting Stanford University officials or police, or expulsion from the event with no eligibility for reimbursement or refund of any type. 
+If a participant engages in harassing, inappropriate, or disruptive behavior, TreeHacks may take any action it deems appropriate, including but not limited to, warning the offender, contacting Stanford University officials or police, or expulsion from the event with no eligibility for reimbursement, prizes, or refund of any type. 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer using the reporting procedures defined below.
 
@@ -20,11 +20,9 @@ TreeHacks representatives can assist participants in contacting campus police or
 
 ### General
 
-Additionally, all attendees must comply with all instructions given by any organizer on the TreeHacks team. If you disagree with an organizer or are worried about an organizer's behavior, please ask for a TreeHacks officer or co-director (supervisors of the general organizing team).
+Additionally, all attendees must comply with all instructions given by any organizer on the TreeHacks team. Attendees who do not comply with organizer instructions may face consequences, including but not limited to, warning the offender, contacting Stanford University officials or police, or expulsion from the event with no eligibility for reimbursement, prizes, or refund of any type. If you disagree with an organizer or are worried about an organizer's behavior, please ask for a TreeHacks officer or co-director (supervisors of the general organizing team).
 
 TreeHacks has a zero-tolerance policy for attendees who occupy unapproved venues or areas during the duration of the event. Unapproved venues can include but are not limited to: Stanford-owned buildings that have not been reserved for TreeHacks, organizer exclusive areas which are closed for attendees, or any area occupied by a attendee after a TreeHacks organizer has asked the attendee to leave. TreeHacks will enforce strict consequences for these attendees in unapproved areas - consequences can include but are not limited to immediate disqualification from the event; no eligilbity for prizes, travel reimbursement or refund of any type; or trespass warnings from Stanford police. If you are unsure which areas are allowed, please ask a TreeHacks organizer through a digital communication channel or in-person.
-
-update treehacks code of conduct to mention that there’s a 0 tolerance policy for attendees who leave the approved venue - consequences begin at immediate disqualification and may include being trespass by SUPDS
 
 We expect participants to follow these rules at all TreeHacks venues, online interactions in relation to the event, all TreeHacks-related events, and on hackathon supplied transportation.
 
