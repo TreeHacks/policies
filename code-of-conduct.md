@@ -4,6 +4,8 @@ TreeHacks is dedicated to providing a safe and comfortable environment and haras
 
 **TL;DR.** _Always be respectful of others. If you even remotely believe that your actions or words may make someone feel uncomfortable, don’t do it. If you are in a situation that makes you feel uncomfortable or unsafe, or you suspect someone may be in such a situation, please report it using the procedures documented below._
 
+### Harassment
+
 Harassment includes offensive verbal comments related to gender, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, sexual images in public spaces, deliberate intimidation, stalking, following, photography or audio/video recording against reasonable consent, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Harassment can include any behavior that makes another person feel targeted or uncomfortable.
 
 In particular, attendees should not use sexualised or discriminatory images, activities, or other material both in their hacks and during the event. Attendees (including sponsors, mentors, speakers, partners, volunteers and organizers) should not use sexualised or discriminatory clothing/uniforms/costumes, or otherwise create a sexualised or discriminatory environment.
@@ -15,6 +17,8 @@ If a participant engages in harassing, inappropriate, or disruptive behavior, Tr
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer using the reporting procedures defined below.
 
 TreeHacks representatives can assist participants in contacting campus police or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. If you are in immediate physical danger, please call the Stanford Police Department at (650) 723-9633, or the Emergency Telephone Number at 911.
+
+### General
 
 Additionally, all attendees must comply with all instructions given by any organizer on the TreeHacks team. If you disagree with an organizer or are worried about an organizer's behavior, please ask for a TreeHacks officer or co-director (supervisors of the general organizing team).
 
