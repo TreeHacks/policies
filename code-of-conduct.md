@@ -2,7 +2,7 @@
 
 TreeHacks is dedicated to providing a safe and comfortable environment and harassment-free experience for everyone. All attendees, sponsors, mentors, speakers, partners, volunteers, organizers and anyone else attending TreeHacks are required to agree and abide by the following code of conduct.
 
-Additionally, all hackers must comply with all instructions given by any organizer on the TreeHacks team. If you have an issue with an organizer or are worried about an organizer's behavior, please ask for a TreeHacks officer or co-director (above the general organizing team).
+Additionally, all hackers must comply with all instructions given by any organizer on the TreeHacks team. If you have an issue with an organizer or are worried about an organizer's behavior, please ask for a TreeHacks officer or co-director (supervisors of the general organizing team).
 
 **TL;DR.** _Always be respectful of others. If you even remotely believe that your actions or words may make someone feel uncomfortable, don’t do it. If you are in a situation that makes you feel uncomfortable or unsafe, or you suspect someone may be in such a situation, please report it using the procedures documented below._
 
