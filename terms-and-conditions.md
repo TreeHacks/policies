@@ -2,25 +2,25 @@
 
 ## Participation Agreement
 
-1. You acknowledge that your participation in any component of TreeHacks, including but not limited to ceremonies, workshops, activities, digital platforms, project submission, and judging (collectively, the "Event") constitutes your full and unconditional agreement to and acceptance of these Terms and Conditions. The term "you" refers to you, the "Participant".
+You acknowledge that your participation in any component of TreeHacks, including but not limited to ceremonies, workshops, activities, digital platforms, project submission, and judging (collectively, the "Event") constitutes your full and unconditional agreement to and acceptance of these Terms and Conditions. The term "you" refers to you, the "Participant".
 
 ## Information Sharing
 
-2. You agree that the Organizers may share your registration details, LinkedIn/Github profiles, details of your hackathon project, and other information obtained from you in the course of, or relating to, the Event with the Sponsors, and acknowledge that such Sponsors may contact you during and/or after the Event. By agreeing to these Terms and Conditions and/or by participating in the Event, you are providing your express consent to communications by the Organizers and Sponsors (including email communications, both marketing and informational) respecting the products and services of the Organizers and/or Sponsors, and future events.
+You agree that the Organizers may share your registration details, LinkedIn/Github profiles, details of your hackathon project, and other information obtained from you in the course of, or relating to, the Event with the Sponsors, and acknowledge that such Sponsors may contact you during and/or after the Event. By agreeing to these Terms and Conditions and/or by participating in the Event, you are providing your express consent to communications by the Organizers and Sponsors (including email communications, both marketing and informational) respecting the products and services of the Organizers and/or Sponsors, and future events.
 
 ## Accuracy of Information
 
-3. You acknowledge that if you provide the Organizers with false or misleading information (such as your identity or status as a student), or otherwise contravene the rules and obligations set out in this document, you forfeit your right to participate in the Event and/or obtain any prizes from the Event. You agree that in such a case, the Organizers may pursue any remedy in law or equity to reclaim any prize or recover any damages occurring as a result of your contravention or misrepresentation.
+You acknowledge that if you provide the Organizers with false or misleading information (such as your identity or status as a student), or otherwise contravene the rules and obligations set out in this document, you forfeit your right to participate in the Event and/or obtain any prizes from the Event. You agree that in such a case, the Organizers may pursue any remedy in law or equity to reclaim any prize or recover any damages occurring as a result of your contravention or misrepresentation.
 
 ## Facilities Use
 
-4. Facilities: You must comply with all facility and equipment rules and requirements during your participation in the Event, including all safety instructions and requirements. You are not to take unreasonable risks while using the facilities where the Event is located, including causing any other person using such facilities an unreasonable risk of harm.
+**Facilities**: You must comply with all facility and equipment rules and requirements during your participation in the Event, including all safety instructions and requirements. You are not to take unreasonable risks while using the facilities where the Event is located, including causing any other person using such facilities an unreasonable risk of harm.
 
-5. You assume full responsibility for any damage or injury caused by you in your participation in the Event (whether to persons or property, and whether to yourself or others) and release the University of Waterloo, Techyon, all sponsors of TreeHacks, TreeHacks volunteers, University of Waterloo staff, guests of TreeHacks and all other participants in TreeHacks from any liability therefore. YOU ARE AWARE THAT YOUR PARTICIPATION IN TREEHACKS IS SOLELY AT YOUR OWN RISK, AND THAT THE TERMS AND CONDITIONS ARE INTENDED TO REFLECT THAT UNDERSTANDING.
+You assume full responsibility for any damage or injury caused by you in your participation in the Event (whether to persons or property, and whether to yourself or others) and release the University of Waterloo, Techyon, all sponsors of TreeHacks, TreeHacks volunteers, University of Waterloo staff, guests of TreeHacks and all other participants in TreeHacks from any liability therefore. YOU ARE AWARE THAT YOUR PARTICIPATION IN TREEHACKS IS SOLELY AT YOUR OWN RISK, AND THAT THE TERMS AND CONDITIONS ARE INTENDED TO REFLECT THAT UNDERSTANDING.
 
-6. You acknowledge that alcohol, drugs or weapons of any kind shall not be present or consumed during the Event. Participants will act responsibly and should wear their TreeHacks identification badge at all times during the Event.
+You acknowledge that alcohol, drugs or weapons of any kind shall not be present or consumed during the Event. Participants will act responsibly and should wear their TreeHacks identification badge at all times during the Event.
 
-7. Any Organizer of the Event reserves the right to individually, at their discretion and without limitation, remove any participant(s) from the Event with immediate effect, for any reason, including, without limitation, any real or perceived violation of these Terms and Conditions, the TreeHacks Code of Conduct, any other applicable Codes of Conduct, or laws in any applicable jurisdiction.
+Any Organizer of the Event reserves the right to individually, at their discretion and without limitation, remove any participant(s) from the Event with immediate effect, for any reason, including, without limitation, any real or perceived violation of these Terms and Conditions, the TreeHacks Code of Conduct, any other applicable Codes of Conduct, or laws in any applicable jurisdiction.
 
 ## Release
 
