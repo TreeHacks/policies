@@ -18,14 +18,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 TreeHacks representatives can assist participants in contacting campus police or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. If you are in immediate physical danger, please call the Stanford Police Department at (650) 723-9633, or the Emergency Telephone Number at 911.
 
-### General
-
-Additionally, all attendees must comply with all instructions given by any organizer on the TreeHacks team. Attendees who do not comply with organizer instructions may face consequences such as, including but not limited to, a verbal warning, contact to Stanford University officials or police, or expulsion from the event with no eligibility for reimbursement, prizes, or refund of any type. If you disagree with an organizer or are worried about an organizer's behavior, please ask for a TreeHacks officer or co-director (supervisors of the general organizing team).
-
-TreeHacks has a zero-tolerance policy for attendees who occupy unapproved venues or areas during the duration of the event. Unapproved venues can include, but are not limited to: Stanford-owned buildings that have not been reserved for TreeHacks, organizer exclusive areas which are closed for attendees, or any area occupied by a attendee after a TreeHacks organizer has asked the attendee to leave. TreeHacks will enforce strict consequences for attendees in unapproved areas - consequences can include, but are not limited to, immediate disqualification from the event; no eligilbity for prizes, travel reimbursement or refund of any type; or trespass warnings from Stanford police. If you are unsure which areas are allowed, please ask a TreeHacks organizer through a digital communication channel or in-person.
-
-We expect participants to follow these rules at all TreeHacks venues, online interactions in relation to the event, all TreeHacks-related events, and on hackathon supplied transportation.
-
 ## Reporting Procedure
 
 If at any point you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it by emailing [incident@treehacks.com](mailto:incident@treehacks.com). We would also recommend reporting to a TreeHacks organizer. If you are uncomfortable reporting your situation to one or more organizers, please ask for one of the co-directors (TreeHacks co-presidents). All reporters have the right to remain anonymous.
@@ -34,4 +26,4 @@ TreeHacks reserves the right to revise, make exceptions to, or otherwise amend t
 
 _Our code of conduct is based on the [Hack Code of Conduct.](http://hackcodeofconduct.org/)_
 
-Last updated on July 9, 2024
+Last updated on July 22, 2024
