@@ -2,7 +2,7 @@
 
 ## Participation Agreement
 
-You acknowledge that your participation in any component of TreeHacks, including but not limited to ceremonies, workshops, activities, digital platforms, project submission, and judging (collectively, the "Event") constitutes your full and unconditional agreement to and acceptance of these Terms and Conditions. The term "you" refers to you, the "Participant".
+You acknowledge that your participation in any component of TreeHacks, including but not limited to ceremonies, workshops, activities, digital platforms, online events, TreeHacks supplied transportation, project submission, and judging (collectively, the "Event") constitutes your full and unconditional agreement to and acceptance of these Terms and Conditions. The term "you" refers to you, the "Participant".
 
 ## Information Sharing
 
@@ -21,6 +21,10 @@ You assume full responsibility for any damage or injury caused by you in your pa
 You acknowledge that alcohol, drugs or weapons of any kind shall not be present or consumed during the Event. Participants will act responsibly and should wear their TreeHacks identification badge at all times during the Event.
 
 Any Organizer of the Event reserves the right to individually, at their discretion and without limitation, remove any participant(s) from the Event with immediate effect, for any reason, including, without limitation, any real or perceived violation of these Terms and Conditions, the TreeHacks Code of Conduct, any other applicable Codes of Conduct, or laws in any applicable jurisdiction.
+
+All attendees must comply with all instructions given by any organizer on the TreeHacks team. Attendees who do not comply with organizer instructions may face consequences such as, including but not limited to, a verbal warning, referral to Stanford University officials or police, or expulsion from the event with no eligibility for reimbursement, prizes, or refund of any type. If you disagree with an organizer or are worried about an organizer's behavior, please ask for a TreeHacks officer or co-director (supervisors of the general organizing team).
+
+TreeHacks has a zero-tolerance policy for attendees who occupy unapproved venues or areas during the duration of the event. Unapproved venues can include, but are not limited to: Stanford-owned buildings that have not been reserved for TreeHacks, organizer exclusive areas which are closed for attendees, or any area occupied by a attendee after a TreeHacks organizer has asked the attendee to leave. TreeHacks will enforce strict consequences for attendees in unapproved areas - consequences can include, but are not limited to, immediate disqualification from the event; no eligilbity for prizes, travel reimbursement or refund of any type; or trespass warnings from Stanford police. If you are unsure which areas are allowed, please ask a TreeHacks organizer through a digital communication channel or in-person.
 
 ## Release
 
