@@ -12,7 +12,7 @@ You agree that the Organizers may share your registration details, LinkedIn/Gith
 
 You acknowledge that if you provide the Organizers with false or misleading information (such as your identity or status as a student), or otherwise contravene the rules and obligations set out in this document, you forfeit your right to participate in the Event and/or obtain any prizes from the Event. You agree that in such a case, the Organizers may pursue any remedy in law or equity to reclaim any prize or recover any damages occurring as a result of your contravention or misrepresentation.
 
-## Facilities Use
+## Facilities Use & Event Regulations
 
 **Facilities**: You must comply with all facility and equipment rules and requirements during your participation in the Event, including all safety instructions and requirements. You are not to take unreasonable risks while using the facilities where the Event is located, including causing any other person using such facilities an unreasonable risk of harm.
 
