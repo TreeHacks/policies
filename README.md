@@ -1,6 +1,6 @@
-# TreeHacks Policies
+# TreeHacks Terms & Policies
 
-This repository serves as a changelog to official TreeHacks Policies.
+This repository serves as a changelog to official TreeHacks terms and policies.
 
 Contained within are:
 
