@@ -16,7 +16,7 @@ You acknowledge that if you provide the Organizers with false or misleading info
 
 **Facilities**: You must comply with all facility and equipment rules and requirements during your participation in the Event, including all safety instructions and requirements. You are not to take unreasonable risks while using the facilities where the Event is located, including causing any other person using such facilities an unreasonable risk of harm.
 
-You assume full responsibility for any damage or injury caused by you in your participation in the Event (whether to persons or property, and whether to yourself or others) and release the University of Waterloo, Techyon, all sponsors of TreeHacks, TreeHacks volunteers, University of Waterloo staff, guests of TreeHacks and all other participants in TreeHacks from any liability therefore. YOU ARE AWARE THAT YOUR PARTICIPATION IN TREEHACKS IS SOLELY AT YOUR OWN RISK, AND THAT THE TERMS AND CONDITIONS ARE INTENDED TO REFLECT THAT UNDERSTANDING.
+You assume full responsibility for any damage or injury caused by you in your participation in the Event (whether to persons or property, and whether to yourself or others) and release Stanford University, all sponsors of TreeHacks, TreeHacks volunteers, Stanford University staff, guests of TreeHacks and all other participants in TreeHacks from any liability therefore. YOU ARE AWARE THAT YOUR PARTICIPATION IN TREEHACKS IS SOLELY AT YOUR OWN RISK, AND THAT THE TERMS AND CONDITIONS ARE INTENDED TO REFLECT THAT UNDERSTANDING.
 
 You acknowledge that alcohol, drugs or weapons of any kind shall not be present or consumed during the Event. Participants will act responsibly and should wear their TreeHacks identification badge at all times during the Event.
 
