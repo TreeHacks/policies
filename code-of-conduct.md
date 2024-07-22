@@ -34,5 +34,4 @@ TreeHacks reserves the right to revise, make exceptions to, or otherwise amend t
 
 _Our code of conduct is based on the [Hack Code of Conduct.](http://hackcodeofconduct.org/)_
 
-This guide was last updated on:
-July 9, 2024
+Last updated on July 9, 2024
