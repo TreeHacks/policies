@@ -12,6 +12,16 @@ You agree that the Organizers may share your registration details, LinkedIn/Gith
 
 You acknowledge that if you provide the Organizers with false or misleading information (such as your identity or status as a student), or otherwise contravene the rules and obligations set out in this document, you forfeit your right to participate in the Event and/or obtain any prizes from the Event. You agree that in such a case, the Organizers may pursue any remedy in law or equity to reclaim any prize or recover any damages occurring as a result of your contravention or misrepresentation.
 
+## Projects / Cheating
+
+TreeHacks maintains a zero-tolerance policy towards project cheating, which includes, but is not limited to: initiating a project prior to the official start of hacking, submitting a project previously created by a participant, or copying another participant's project. We enforce this policy rigorously to uphold the integrity of our competition.
+
+All projects submitted will undergo thorough evaluation by our internal system, which employs various checks to detect potential cheating. Additionally, our organizing team will manually review all winning projects. A holding period will be instituted between the announcement of winners and the distribution of prizes, during which TreeHacks will conduct further comprehensive checks to ensure compliance with all rules. Any project found to have violated our rules will subject all team members involved to severe consequences, which may include, but are not limited to, disqualification from any prize or travel reimbursement, a permanent ban from future TreeHacks events, and notification to our sponsors and company recruiters.
+
+All projects must be entirely original, created by the hacking team during the event. No code may be written prior to the official start of hacking. TreeHacks will provide a Cheating Report Form, accessible to all attendees during the event, for the confidential submission of any cheating allegations. Access to these reports will be restricted to a small group of TreeHacks executive leadership, and no punitive actions will be taken against individuals who submit a report in good faith. Personal information, such as your name and email address, may be collected solely for the purpose of verifying the authenticity of the report and facilitating any necessary follow-up.
+
+If you observe any project that appears to violate TreeHacks rules, we strongly encourage you to report it using the designated form provided during the event. For any questions, please contact hello@treehacks.com with [cheating] in the subject line.
+
 ## Facilities Use & Event Regulations
 
 **Facilities**: You must comply with all facility and equipment rules and requirements during your participation in the Event, including all safety instructions and requirements. You are not to take unreasonable risks while using the facilities where the Event is located, including causing any other person using such facilities an unreasonable risk of harm.
@@ -36,4 +46,4 @@ For valuable consideration, including permission to take part in Event, the unde
 
 I have completely read and understand the Terms and Conditions and Code of Conduct (the "Agreement") and its terms, and agree to comply with all rules and obligations set forth in this Agreement. I understand that I have given up substantial rights by signing it, and have signed it freely and voluntarily without inducement, assurance or guarantee being made to me. I confirm that I have the right to enter into this Agreement, that I am not restricted by any commitments to any other parties, and that none of the Organizers have any financial commitment or obligations to me as a result of this Agreement or the use of my Images. Prior to signing this Agreement, I have had the opportunity to ask any questions about this Agreement and TreeHacks.
 
-Last updated on July 22, 2024
+Last updated on August 27, 2024
