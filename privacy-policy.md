@@ -12,7 +12,7 @@ All of the personal information we collect on users can be categorized into one 
 
 ### 1\. Personal Information of Applicants and Attendees
 
-When you register for an account on root.treehacks.com in order to apply to attend TreeHacks, you willingly provide us with information as part of your application and as part of forms you submit leading up to, during, and after our event. Unless specified below, this information is not shared with anybody outside of the TreeHacks organizing team and is used only for application review and for purposes directly related to running our hackathon.
+When you register for an account on our application portal in order to apply to attend TreeHacks, you willingly provide us with information as part of your application and as part of forms you submit leading up to, during, and after our event. Unless specified below, this information is not shared with anybody outside of the TreeHacks organizing team and is used only for application review and for purposes directly related to running our hackathon.
 
 We also collect optional demographic information about our hackers. This information is anonymized and is used solely so we can gauge how we’re doing at our goal of making the hacking community more open and diverse.
 
@@ -52,7 +52,7 @@ The primary motivators for why sponsoring companies attend and support TreeHacks
 -   Graduating month and year
 -   Any awards you may have won at the current TreeHacks
 
-You have the opportunity to decline providing any information to sponsors when you RSVP. Specifically, we never directly share your phone number or any demographic information.
+We never directly share your phone number or any demographic information.
 
 ### Stanford University
 
